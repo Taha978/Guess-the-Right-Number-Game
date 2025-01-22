@@ -14,7 +14,7 @@ This is a simple and interactive number-guessing game built using **Excel VBA**.
 ## How to Play
 1. Open the Excel file in Microsoft Excel.
 2. Enable macros if prompted.
-3. Run the game by clicking the "Start Game" button.
+3. Run the game by clicking the "Play" button.
 4. Enter your guesses and receive feedback to narrow down the correct number.
 5. Try to guess the number in the minimum number of attempts!
 
